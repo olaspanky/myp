@@ -258,7 +258,7 @@ export default function App() {
               <p className="text-white py-1">Nodejs and GraphCms </p>
 
               <button className='bg-teal-500 text-white py-1 px-8 w-[20%] my-3 rounded-md'>
-              <a href='https://gleaming-nougat-681ad3.netlify.app/' target="_blank">GO</a>
+              <a href='https://gleaming-nougat-681ad3.netlify.app/' rel="noreferrer" target="_blank">GO</a>
               </button>
               </div>
             </div>
@@ -281,7 +281,7 @@ export default function App() {
           
 
               <button className='bg-teal-500 text-white py-1 px-8 w-[20%] my-3 rounded-md'>
-              <a href='https://gleaming-gumdrop-79e9b8.netlify.app/' target="_blank">GO</a>
+              <a href='https://gleaming-gumdrop-79e9b8.netlify.app/' rel="noreferrer" target="_blank">GO</a>
               </button>
               
               </div></div>
@@ -302,7 +302,7 @@ export default function App() {
 
 
     <button className='bg-teal-500 text-white py-1 px-8 w-[20%] my-3 rounded-md'>
-    <a href='https://thriving-queijadas-7bf4b0.netlify.app/' target="_blank">GO</a>
+    <a href='https://thriving-queijadas-7bf4b0.netlify.app/' rel="noreferrer" target="_blank">GO</a>
     </button>
               </div></div>
 
@@ -323,7 +323,7 @@ export default function App() {
 
 
     <button className='bg-teal-500 text-white py-1 px-8 w-[20%] my-3 rounded-md'>
-    <a href='https://phenomenal-dieffenbachia-563bb7.netlify.app/' target="_blank">GO</a>
+    <a href='https://phenomenal-dieffenbachia-563bb7.netlify.app/' rel="noreferrer" target="_blank">GO</a>
     </button>
               
               </div></div>
@@ -346,7 +346,7 @@ export default function App() {
 
 
     <button className='bg-teal-500 w-[20%] text-white py-1 px-8 my-3 rounded-md'>
-    <a href='https://animated-mooncake-72b289.netlify.app/' target="_blank">GO</a>
+    <a href='https://animated-mooncake-72b289.netlify.app/' rel="noreferrer" target="_blank">GO</a>
     </button>
   
               
