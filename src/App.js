@@ -3,9 +3,6 @@ import { gsap, Power1  } from "gsap"
 import { useLayoutEffect, useRef,  } from "react";
 import { ScrollTrigger } from "gsap/all";
 import { TextPlugin } from "gsap/all";
-import { FaCss3, FaHtml5, FaJsSquare, FaReact,  } from 'react-icons/fa';
-import { BsFillBootstrapFill } from "react-icons/bs";
-import { GoMarkGithub } from "react-icons/go";
 
 
 
@@ -157,19 +154,7 @@ export default function App() {
               I have a passion for creating visually stunning and user-friendly websites. With 3 years of experience, I pride myself on writing clean and efficient <span className='text-teal-500'>code</span>. 
               Thank you for visiting my website. Let's create something amazing together!</p>
 
-              <div className="flex justify-center gap-5">
-              <FaHtml5 size={30} color="white"/>
-              <FaCss3 size={30} color="white"/>
-              <FaJsSquare size={30} color="white"/>
-              <FaReact size={30} color="white"/>
-              </div>
-
-              <div className="flex justify-center gap-5 m-3">
-
-              <BsFillBootstrapFill size={30} color="white"/>
-              <GoMarkGithub size={30} color="white"/>
-              
-              </div>
+             
   
             </div>
   
